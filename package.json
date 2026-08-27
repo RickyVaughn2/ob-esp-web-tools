@@ -33,7 +33,7 @@
     "esptool-js": "^0.3.2",
     "improv-wifi-serial-sdk": "^2.5.0",
     "lit": "^2.7.5",
-    "pako": "^2.1.0",
+    "pako": "^3.0.1",
     "tslib": "^2.5.3"
   }
 }
